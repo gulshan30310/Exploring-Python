@@ -1,6 +1,6 @@
 # Exploring-Python
 
-Exploring-Python is a book published by TATA McGRAW-HILL EDITION
+Exploring-Python is a book published by **TATA McGRAW-HILL EDITION
 
    ![](Exploring-Python.jpg)
 
